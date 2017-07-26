@@ -1,0 +1,4 @@
+*.py[cod]
+venv/
+app/download_resource
+celerybeat-schedule.db
